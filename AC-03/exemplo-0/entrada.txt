@@ -1,0 +1,15 @@
+a
+ab
+A
+AB
+Aa
+AaBb
+0
+10
+99
+100
+pão
+"olá"
+/
+1+1
+olá, mundo
