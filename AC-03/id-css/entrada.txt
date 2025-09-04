@@ -1,0 +1,8 @@
+#header {
+  background-color: blue;
+  margin-top: 10px;
+}
+
+.nav-item {
+  color: red;
+}
